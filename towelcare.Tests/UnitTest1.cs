@@ -9,6 +9,7 @@ namespace towelcare.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            //
         }
     }
 }
